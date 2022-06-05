@@ -1,0 +1,13 @@
+.navbar {
+    background-color: DodgerBlue;
+    /* height: 40px;
+    width: 100%; */
+    font-family: Arial;
+    text-align: center;
+  }
+  
+  .amount {
+    font-family: Arial;
+    text-align: right;
+
+  }
